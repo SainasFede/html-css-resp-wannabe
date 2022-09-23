@@ -135,6 +135,10 @@ img {
         text-align: center;
     }
 
+    .row{
+        max-width: 768px;
+    }
+
     header{
         max-width: 768px;
     }
